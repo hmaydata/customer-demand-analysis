@@ -30,9 +30,11 @@ Overall, the business depends on a combination of high-value customers, repeat p
 
 ## Analysis
 ### 🔹 Revenue Concentration
+![Revenue Concentration](customer-revenue-curve.jpg)
 Revenue is heavily concentrated among top customers, with a small share of customers accounting for a disproportionate amount of total revenue. The cumulative revenue distribution rises quickly among top spenders, indicating a long-tail structure and potential dependence on high-value customers.
 
 ### 🔹 Customer Retention
+![Customer Breakdown](customer-breakdown.jpg)
 Approximately two-thirds of customers make repeat purchases, while one-third transact only once. This indicates moderate retention but continued reliance on acquiring new customers to sustain revenue.
 
 ### 🔹 Demand Trends
@@ -42,6 +44,7 @@ Revenue follows a clear seasonal pattern, increasing through the year and peakin
 Customer value varies significantly, with no consistent relationship between purchase frequency and total spending. Some customers generate high revenue through frequent purchases, while others contribute large amounts through a small number of transactions. This suggests a heterogeneous customer base with multiple purchasing behaviors.
 
 ### 🔹 Cohort-Based Retention
+![Customer Retention](customer-cohort.jpg)
 Customer retention varies significantly by acquisition month. Customers acquired in January and during pre-holiday months exhibit higher return rates, while mid-year cohorts show weaker persistence. This indicates that customer quality is time-dependent and influenced by seasonal factors.
 
 ## Key Takeaways

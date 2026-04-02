@@ -15,7 +15,7 @@ The dashboard includes:
 * Monthly revenue trend with proper time aggregation
 * Customer segmentation (one-time vs repeat)
 * Revenue concentration (Pareto analysis)
-* Interactive filters for country and date
+* Interactive filters for country, date, and customer type
 
 ![Tableau Dashboard](tableau-dashboard.jpg)
 

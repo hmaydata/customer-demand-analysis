@@ -63,15 +63,11 @@ Customer value varies widely across the customer base, with no consistent relati
 
 ### 🔹 Revenue Concentration
 
-![Revenue Concentration](customer-revenue-curve.jpg)
-
 Revenue is heavily concentrated among top customers. A small percentage of customers account for a disproportionate share of total revenue, indicating a long-tail distribution and potential dependency on high-value customers. This pattern is visualized using a Pareto curve in Tableau.
 
 ---
 
 ### 🔹 Customer Retention
-
-![Customer Breakdown](customer-breakdown.jpg)
 
 Approximately two-thirds of customers make repeat purchases, while one-third transact only once. This suggests moderate retention but continued reliance on customer acquisition.
 

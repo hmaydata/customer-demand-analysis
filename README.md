@@ -70,3 +70,5 @@ Customer retention varies significantly by acquisition month. Customers acquired
 
 ## Author's Note
 This project was developed as part of a data analytics portfolio to demonstrate the ability to translate raw transactional data into meaningful business insights using SQL.
+
+Link https://public.tableau.com/views/customer-demand-dashboard/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
